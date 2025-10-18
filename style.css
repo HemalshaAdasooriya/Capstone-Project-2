@@ -26,3 +26,13 @@ body{
     object-fit: cover;
     
 }
+.footer{
+    background: #620697;
+    color: white;
+    margin-top: 0;
+    
+}
+.nav-link{
+    color: white;
+
+}
