@@ -3,7 +3,8 @@ body{
     padding: 0;
     font-family: 'Poppins', sans-serif;
     scroll-behavior: smooth;
-    background-color: #fbd2ffa4;}
+    background-color: #fbd2ffa4;
+}
 .hero{
     background: linear-gradient(135deg, #ffecd2, #330867);
 }
